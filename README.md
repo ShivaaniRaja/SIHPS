@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29.11.2024
+## Register Number:24007075
+## Name: SHIVAANI RAJA
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,7 +10,9 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+The Alumni Association platform for the Government Engineering College will create a comprehensive ecosystem for alumni to connect, contribute, and thrive. Accessible through both web and mobile applications, the platform will offer a user-friendly registration process, allowing alumni to create and update their profiles. Key features will include a donation portal for easy and secure contributions, a job portal for alumni to post and explore career opportunities, and a networking hub to connect based on shared interests, industries, and locations. The platform will also provide a searchable alumni directory, facilitate mentorship programs, and allow alumni to track and showcase their success stories, fostering a sense of pride and inspiration within the community.
 
+Additionally, the platform will feature tools for organizing and managing alumni events and reunions, including virtual options for those unable to attend in person. Alumni can also provide valuable feedback through surveys to help shape future initiatives. By integrating these features, the platform aims to strengthen alumni engagement, increase philanthropic support, and promote lifelong learning and professional development. The seamless access to resources, networking, and career advancement opportunities will ensure that alumni remain connected and invested in the growth and success of their alma mater, creating a lasting and vibrant community.
 
 ## Proposed Solution / Architecture Diagram
 
@@ -19,7 +21,14 @@ Government of Gujarat
 
 
 ## Technology Stack
-
+React.js
+React Native
+Node.js with Express.js
+MongoDB
+JWT
+Stripe/PayPal
+AWS/GCP/Azure
+Heroku/Netlify
 
 ## Dependencies
 
