@@ -16,9 +16,11 @@ Additionally, the platform will feature tools for organizing and managing alumni
 
 ## Proposed Solution / Architecture Diagram
 
+![IMPLEMENTATION OF ALUMINI ASSCOCIATIO](https://github.com/user-attachments/assets/ba787b58-e3ae-440d-98db-de687c4a9d71)
 
 ## Use Cases
 
+![Beige Colorful Minimal Flowchart Infographic Graph](https://github.com/user-attachments/assets/573fc257-53e8-495f-b200-ec62569bcb01)
 
 ## Technology Stack
 React.js
